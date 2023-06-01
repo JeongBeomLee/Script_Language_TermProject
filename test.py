@@ -498,3 +498,4 @@ class MyApplication:
             self.show_random_recipe()
 
 app = MyApplication(800, 600)
+#...
