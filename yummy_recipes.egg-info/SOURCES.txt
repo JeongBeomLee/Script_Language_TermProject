@@ -1,0 +1,6 @@
+setup.py
+yummy_recipes.py
+yummy_recipes.egg-info/PKG-INFO
+yummy_recipes.egg-info/SOURCES.txt
+yummy_recipes.egg-info/dependency_links.txt
+yummy_recipes.egg-info/top_level.txt
