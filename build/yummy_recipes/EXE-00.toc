@@ -3844,7 +3844,7 @@
  [],
  False,
  False,
- 1686466984,
+ 1686580435,
  [('run.exe',
    'C:\\Users\\gofla\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')])
